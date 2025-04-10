@@ -159,3 +159,4 @@ if(temperature < -10) {
 } else if(temperature < 30) {console.log('mi dia una peroni sudata');
 } else if(temperature >= 30) {console.log('lu mare, lu sole, lu ientu');
 }
+
